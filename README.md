@@ -16,5 +16,5 @@ Analysis of Bank and Credit-Debit data using Excel, Power BI and Tableau.
 - Tableau Dashboards (.twbx)
 - SQL Queries
 
-## Author
-Samarth B
+## Samarth Borse
+
