@@ -17,7 +17,7 @@ Analysis of Bank and Credit-Debit data using Excel, Power BI and Tableau.
 - SQL Queries
 
 ## Samarth Borse
-# Note-
+##Note-
 Power Bi Dashboard file name
 1.BANK_ANA_Dashboard_pdf
 2.D_C_dashboard_pdf
